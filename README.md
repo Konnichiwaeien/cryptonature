@@ -1,6 +1,6 @@
 # Cryptonature
 
-Cryptonature is an incredibly easy to use and useful cryptocurrency app that provides you in-depth data about all cryptocurrencies, markets, exchanges and latest crypto news.
+Cryptonature is an incredibly easy to use and useful cryptocurrency app that provides you in-depth data about all cryptocurrencies, markets, exchanges and latest crypto news and insights.
 
 ## Features
 
